@@ -1,5 +1,5 @@
 import streamlit as st
-from lamini import BasicModelRunner
+from llama import BasicModelRunner
 import lamini
 import time
 
